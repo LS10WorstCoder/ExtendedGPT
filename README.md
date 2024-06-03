@@ -1,5 +1,8 @@
-<h3>A script that brings the GPT 3.5 Turbo model to your own google doc...</h3>
+<h2>A script that brings the GPT 3.5 Turbo model to your own google doc...</h2>
 <p>This is a kind of small project that I was inspired to attempt after seeing Aidan Ouckah script in his internship spreadsheets. I wanted to make this as a version of microsoft copilot except for google docs, yes I am aware that an extension exists that looks better, has more functions, and has 900k users, but I figured this is a good learning opportunity. I included examples of every function that I built so far so you are free to take a look.</p>
+
+<h3>How to make this work...</h3>
+<p>The actual script is in the "script.gs" file, all you need to do is open any google doc and click on "Extensions" and select "Apps Script". Then copy and paste my script into that code editor and of course get your own GPT API key.</p>
 
 <h4>How to enter a custom prompt:</h4>
 
